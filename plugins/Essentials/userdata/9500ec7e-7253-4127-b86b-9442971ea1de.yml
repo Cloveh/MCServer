@@ -1,0 +1,30 @@
+lastAccountName: Cloveh
+timestamps:
+  login: 1569533787908
+  logout: 1569539679054
+  lastteleport: 1569534067657
+ipAddress: 128.211.223.76
+logoutlocation:
+  world: world
+  x: -883.3793613647232
+  y: 78.875
+  z: 882.6540461549696
+  yaw: -356.24857
+  pitch: 19.79966
+lastlocation:
+  world: world
+  x: -892.5
+  y: 106.0
+  z: 891.5
+  yaw: -271.3521
+  pitch: 66.599815
+afk: false
+homes:
+  home:
+    world: world
+    x: -892.198218836953
+    y: 106.0
+    z: 891.5069893396372
+    yaw: -268.95166
+    pitch: 13.199846
+money: '128000.0'

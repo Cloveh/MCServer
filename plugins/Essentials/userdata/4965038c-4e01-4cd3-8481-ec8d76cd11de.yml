@@ -1,0 +1,21 @@
+lastAccountName: sperkowsky
+timestamps:
+  login: 1569382773625
+  lastteleport: 1569385348430
+  logout: 1569385369503
+ipAddress: 104.254.217.158
+lastlocation:
+  world: world
+  x: 85.3889402015686
+  y: 64.0
+  z: 872.6375672937395
+  yaw: -145.51915
+  pitch: 9.449547
+logoutlocation:
+  world: world
+  x: -216.53814659021089
+  y: 91.5
+  z: -261.7874516628745
+  yaw: -109.05336
+  pitch: 28.800564
+afk: false

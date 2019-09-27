@@ -1,0 +1,31 @@
+lastAccountName: fluffy_unicorn56
+timestamps:
+  login: 1569610246198
+  kits:
+    tools: 1569612233764
+  lastteleport: 1569613471511
+  logout: 1569610205246
+ipAddress: 69.174.131.226
+lastlocation:
+  world: world
+  x: -703.4578802731683
+  y: 83.0
+  z: 686.129228262856
+  yaw: 184.66449
+  pitch: 9.42051
+homes:
+  home:
+    world: world
+    x: -208.98343393335747
+    y: 63.0
+    z: -239.6555964685047
+    yaw: -268.66345
+    pitch: 20.301735
+logoutlocation:
+  world: world
+  x: -209.653746842653
+  y: 91.0
+  z: -270.4795301784271
+  yaw: -239.7321
+  pitch: 4.3918033
+nickname: SuperAthelete

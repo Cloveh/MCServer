@@ -1,0 +1,21 @@
+lastAccountName: kramer_l
+timestamps:
+  login: 1569443458731
+  lastteleport: 1569444941065
+  logout: 1569445986739
+ipAddress: 199.168.72.235
+lastlocation:
+  world: world
+  x: 598.4904613046858
+  y: 62.0
+  z: 512.699999988079
+  yaw: 59.359253
+  pitch: 15.44999
+logoutlocation:
+  world: world
+  x: 664.3000000119209
+  y: 79.0
+  z: 541.3772006488756
+  yaw: 258.55927
+  pitch: -1.8001969
+afk: false

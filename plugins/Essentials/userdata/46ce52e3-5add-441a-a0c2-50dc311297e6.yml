@@ -1,0 +1,22 @@
+lastAccountName: Stryker64
+timestamps:
+  login: 1569447433097
+  logout: 1569448570804
+  lastteleport: 1569447215464
+  kits:
+    tools: 1569447972235
+ipAddress: 162.211.34.109
+logoutlocation:
+  world: world
+  x: -769.4067170384574
+  y: 176.37254795596604
+  z: -521.6852769971517
+  yaw: 208.62927
+  pitch: 6.4140534
+lastlocation:
+  world: world
+  x: -758.7349011670879
+  y: 76.0
+  z: -594.4298456270855
+  yaw: 8.955731
+  pitch: 5.2833147

@@ -1,0 +1,28 @@
+lastAccountName: jebbernaut
+timestamps:
+  login: 1569538846869
+  logout: 1569539961150
+  lastteleport: 1569539006936
+ipAddress: 174.77.177.103
+logoutlocation:
+  world: world
+  x: -110.30000001192093
+  y: 71.0
+  z: 561.6999999880791
+  yaw: 138.40125
+  pitch: 25.144323
+homes:
+  home:
+    world: world
+    x: -111.84826720474864
+    y: 71.0
+    z: 559.4307575078844
+    yaw: 201.7255
+    pitch: 25.9301
+lastlocation:
+  world: world
+  x: -111.69999998807907
+  y: 71.0
+  z: 557.893457492775
+  yaw: 200.15385
+  pitch: 27.81604

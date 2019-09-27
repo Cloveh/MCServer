@@ -1,0 +1,28 @@
+lastAccountName: Claffey
+timestamps:
+  login: 1569610810524
+  logout: 1569610824117
+  lastteleport: 1569545773112
+ipAddress: 162.221.223.18
+logoutlocation:
+  world: world
+  x: -706.3294753739029
+  y: 80.0
+  z: 666.8327212455655
+  yaw: -243.11993
+  pitch: 1.3600053
+lastlocation:
+  world: world
+  x: -201.5
+  y: 91.0
+  z: -260.5
+  yaw: -130.7672
+  pitch: 17.147041
+homes:
+  home:
+    world: world
+    x: -201.69999998807907
+    y: 91.0
+    z: -260.30000001192093
+    yaw: -130.7672
+    pitch: 17.147041

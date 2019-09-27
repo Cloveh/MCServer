@@ -1,0 +1,21 @@
+lastAccountName: dirtykirbi
+timestamps:
+  login: 1569541397934
+  logout: 1569541912850
+  lastteleport: 1569465158464
+ipAddress: 199.168.72.235
+logoutlocation:
+  world: world
+  x: 648.8892969588911
+  y: 98.0
+  z: 519.6999999880791
+  yaw: 13.608276
+  pitch: 20.400105
+lastlocation:
+  world: world
+  x: 650.8746693434033
+  y: 91.0
+  z: 524.6999999880791
+  yaw: 292.30865
+  pitch: 30.300198
+afk: false

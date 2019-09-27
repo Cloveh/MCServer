@@ -1,0 +1,18 @@
+*/**/.classpath
+.classpath
+*/**/.externalToolBuilders
+.externalToolBuilders
+*/**/.project
+.project
+*/**/.settings
+.settings
+javadoc
+Vault.jar
+/Vault.iml
+/target
+
+#added by LRFLEW
+#feel free to remove
+bin
+*.DS_Store
+/dependency-reduced-pom.xml
