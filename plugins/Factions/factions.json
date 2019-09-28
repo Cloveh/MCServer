@@ -33,9 +33,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -62,9 +66,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -91,9 +99,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -120,9 +132,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -149,9 +165,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -178,9 +198,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -207,9 +231,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -236,9 +264,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -431,9 +463,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -460,9 +496,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -483,15 +523,31 @@
         "CONTAINER": "DENY",
         "HOME": "DENY",
         "TNTBANK": "DENY",
+<<<<<<< HEAD
+=======
+        "PROMOTE": "DENY",
+        "PAIN_BUILD": "DENY",
+        "DOOR": "DENY",
+        "FROST_WALK": "DENY",
+        "CONTAINER": "ALLOW",
+        "FLY": "DENY",
+        "LEVER": "DENY"
+      },
+      "ALLY": {
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "WITHDRAW": "DENY",
         "KICK": "DENY",
         "LEVER": "DENY",
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -518,9 +574,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -530,12 +590,27 @@
         "DESTROY": "DENY",
         "CHEST": "ALLOW",
         "BUILD": "DENY",
+<<<<<<< HEAD
         "TERRITORY": "DENY",
         "SPAWNER": "DENY",
         "BAN": "DENY",
         "VAULT": "DENY",
         "ACCESS": "DENY",
         "BUTTON": "DENY"
+=======
+        "DISBAND": "DENY",
+        "TNTFILL": "DENY",
+        "INVITE": "DENY",
+        "HOME": "DENY",
+        "TNTBANK": "DENY",
+        "PROMOTE": "DENY",
+        "PAIN_BUILD": "DENY",
+        "DOOR": "DENY",
+        "FROST_WALK": "DENY",
+        "CONTAINER": "ALLOW",
+        "FLY": "DENY",
+        "LEVER": "DENY"
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
       }
     },
     "bans": [],
@@ -584,9 +659,28 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
+=======
+        "CONTAINER": "ALLOW",
+        "FLY": "DENY",
+        "LEVER": "DENY"
+      },
+      "RECRUIT": {
+        "WITHDRAW": "DENY",
+        "SETHOME": "DENY",
+        "ITEM": "DENY",
+        "ACCESS": "DENY",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+<<<<<<< HEAD
+=======
+        "PAIN_BUILD": "DENY",
+        "DOOR": "DENY",
+        "FROST_WALK": "DENY",
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -613,9 +707,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -700,9 +798,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -729,9 +831,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -787,9 +893,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -845,9 +955,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -874,9 +988,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -903,9 +1021,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -932,9 +1054,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -961,9 +1087,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -990,9 +1120,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -1019,9 +1153,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -1048,9 +1186,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -1163,9 +1305,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -1175,12 +1321,27 @@
         "DESTROY": "DENY",
         "CHEST": "ALLOW",
         "BUILD": "DENY",
+<<<<<<< HEAD
         "TERRITORY": "DENY",
         "SPAWNER": "DENY",
         "BAN": "DENY",
         "VAULT": "DENY",
         "ACCESS": "DENY",
         "BUTTON": "DENY"
+=======
+        "DISBAND": "DENY",
+        "TNTFILL": "DENY",
+        "INVITE": "DENY",
+        "HOME": "DENY",
+        "TNTBANK": "DENY",
+        "PROMOTE": "DENY",
+        "PAIN_BUILD": "DENY",
+        "DOOR": "DENY",
+        "FROST_WALK": "DENY",
+        "CONTAINER": "ALLOW",
+        "FLY": "DENY",
+        "LEVER": "DENY"
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
       },
       "MODERATOR": {
         "CONTAINER": "ALLOW",
@@ -1279,9 +1440,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -1308,9 +1473,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -1344,6 +1513,7 @@
         "ITEM": "DENY",
         "TNTFILL": "DENY",
         "PAIN_BUILD": "DENY",
+<<<<<<< HEAD
         "SETWARP": "DENY",
         "SETHOME": "DENY",
         "DESTROY": "DENY",
@@ -1355,6 +1525,13 @@
         "VAULT": "DENY",
         "ACCESS": "DENY",
         "BUTTON": "DENY"
+=======
+        "DOOR": "DENY",
+        "FROST_WALK": "DENY",
+        "CONTAINER": "ALLOW",
+        "FLY": "DENY",
+        "LEVER": "DENY"
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
       }
     },
     "bans": [],
@@ -1395,9 +1572,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -1424,9 +1605,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -1453,9 +1638,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -1482,9 +1671,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -1511,9 +1704,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -1540,9 +1737,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -1576,7 +1777,18 @@
         "ITEM": "DENY",
         "TNTFILL": "DENY",
         "PAIN_BUILD": "DENY",
+<<<<<<< HEAD
         "SETWARP": "DENY",
+=======
+        "DOOR": "DENY",
+        "FROST_WALK": "DENY",
+        "CONTAINER": "ALLOW",
+        "FLY": "DENY",
+        "LEVER": "DENY"
+      },
+      "ENEMY": {
+        "WITHDRAW": "DENY",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "SETHOME": "DENY",
         "DESTROY": "DENY",
         "CHEST": "ALLOW",
@@ -1598,9 +1810,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -1782,14 +1998,44 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
+=======
+        "CONTAINER": "ALLOW",
+        "FLY": "DENY",
+        "LEVER": "DENY"
+      },
+      "RECRUIT": {
+        "WITHDRAW": "DENY",
+        "SETHOME": "DENY",
+        "ITEM": "DENY",
+        "ACCESS": "DENY",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+<<<<<<< HEAD
+=======
+        "PAIN_BUILD": "DENY",
+        "DOOR": "DENY",
+        "FROST_WALK": "DENY",
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
         "PAIN_BUILD": "DENY",
+<<<<<<< HEAD
         "SETWARP": "DENY",
+=======
+        "DOOR": "DENY",
+        "FROST_WALK": "DENY",
+        "CONTAINER": "ALLOW",
+        "FLY": "DENY",
+        "LEVER": "DENY"
+      },
+      "ALLY": {
+        "WITHDRAW": "DENY",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "SETHOME": "DENY",
         "DESTROY": "DENY",
         "CHEST": "ALLOW",
@@ -1811,9 +2057,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -1840,9 +2090,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -1869,9 +2123,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -1938,9 +2196,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -1967,9 +2229,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -2054,9 +2320,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -2083,9 +2353,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -2112,9 +2386,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -2141,9 +2419,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -2380,9 +2662,28 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
+=======
+        "CONTAINER": "ALLOW",
+        "FLY": "DENY",
+        "LEVER": "DENY"
+      },
+      "RECRUIT": {
+        "WITHDRAW": "DENY",
+        "SETHOME": "DENY",
+        "ITEM": "DENY",
+        "ACCESS": "DENY",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+<<<<<<< HEAD
+=======
+        "PAIN_BUILD": "DENY",
+        "DOOR": "DENY",
+        "FROST_WALK": "DENY",
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -2409,9 +2710,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -2438,9 +2743,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -2467,9 +2776,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -2479,12 +2792,27 @@
         "DESTROY": "DENY",
         "CHEST": "ALLOW",
         "BUILD": "DENY",
+<<<<<<< HEAD
         "TERRITORY": "DENY",
         "SPAWNER": "DENY",
         "BAN": "DENY",
         "VAULT": "DENY",
         "ACCESS": "DENY",
         "BUTTON": "DENY"
+=======
+        "DISBAND": "DENY",
+        "TNTFILL": "DENY",
+        "INVITE": "DENY",
+        "HOME": "DENY",
+        "TNTBANK": "DENY",
+        "PROMOTE": "DENY",
+        "PAIN_BUILD": "DENY",
+        "DOOR": "DENY",
+        "FROST_WALK": "DENY",
+        "CONTAINER": "ALLOW",
+        "FLY": "DENY",
+        "LEVER": "DENY"
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
       }
     },
     "bans": [],
@@ -2641,9 +2969,28 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
+=======
+        "CONTAINER": "ALLOW",
+        "FLY": "DENY",
+        "LEVER": "DENY"
+      },
+      "RECRUIT": {
+        "WITHDRAW": "DENY",
+        "SETHOME": "DENY",
+        "ITEM": "DENY",
+        "ACCESS": "DENY",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+<<<<<<< HEAD
+=======
+        "PAIN_BUILD": "DENY",
+        "DOOR": "DENY",
+        "FROST_WALK": "DENY",
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -2670,9 +3017,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -2699,9 +3050,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -2728,9 +3083,13 @@
         "DISBAND": "DENY",
         "DOOR": "DENY",
         "FROST_WALK": "DENY",
+<<<<<<< HEAD
         "WARP": "DENY",
         "INVITE": "DENY",
         "PROMOTE": "DENY",
+=======
+        "CONTAINER": "ALLOW",
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
         "FLY": "DENY",
         "ITEM": "DENY",
         "TNTFILL": "DENY",
@@ -2740,12 +3099,27 @@
         "DESTROY": "DENY",
         "CHEST": "ALLOW",
         "BUILD": "DENY",
+<<<<<<< HEAD
         "TERRITORY": "DENY",
         "SPAWNER": "DENY",
         "BAN": "DENY",
         "VAULT": "DENY",
         "ACCESS": "DENY",
         "BUTTON": "DENY"
+=======
+        "DISBAND": "DENY",
+        "TNTFILL": "DENY",
+        "INVITE": "DENY",
+        "HOME": "DENY",
+        "TNTBANK": "DENY",
+        "PROMOTE": "DENY",
+        "PAIN_BUILD": "DENY",
+        "DOOR": "DENY",
+        "FROST_WALK": "DENY",
+        "CONTAINER": "ALLOW",
+        "FLY": "DENY",
+        "LEVER": "DENY"
+>>>>>>> 47f35f44039e2081b8ac7cb935ef285d71e3e97b
       }
     },
     "bans": [],
