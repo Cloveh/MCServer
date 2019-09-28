@@ -1,15 +1,15 @@
 lastAccountName: brito_0
 timestamps:
-  login: 1569548320382
-  logout: 1569550215806
-ipAddress: 177.248.194.49
+  login: 1569629127499
+  logout: 1569632879094
+ipAddress: 177.248.206.113
 logoutlocation:
   world: world
-  x: -185.5
-  y: 72.0999984741211
-  z: 144.5
-  yaw: 0.0
-  pitch: 0.0
+  x: 287.41461807032925
+  y: 61.04999144376052
+  z: -334.37321506537
+  yaw: -190.58687
+  pitch: 26.099936
 lastlocation:
   world: world
   x: -536.1278895745365

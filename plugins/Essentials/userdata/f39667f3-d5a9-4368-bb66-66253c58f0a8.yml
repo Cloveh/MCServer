@@ -1,21 +1,29 @@
 lastAccountName: MonsterMidge81
 timestamps:
-  login: 1569604937342
-  lastteleport: 1569608485560
-  logout: 1569609285010
+  login: 1569616821409
+  lastteleport: 1569617997054
+  logout: 1569618988701
 ipAddress: 69.136.138.213
 lastlocation:
   world: world
-  x: 625.3405476342818
-  y: 71.0
-  z: 560.9351857563485
-  yaw: -197.40042
-  pitch: 5.249635
+  x: 536.6319449376413
+  y: 69.0
+  z: 576.8319087788879
+  yaw: 140.13501
+  pitch: 17.550165
 logoutlocation:
   world: world
-  x: 664.8112079464304
-  y: 103.0
-  z: 537.6230054319806
-  yaw: -66.278336
-  pitch: 58.20061
+  x: 665.3000000119209
+  y: 74.5
+  z: 532.8445321293499
+  yaw: -148.69699
+  pitch: 64.0504
 afk: false
+homes:
+  home:
+    world: world
+    x: 664.9274555047435
+    y: 79.0
+    z: 540.9119353097191
+    yaw: 343.35468
+    pitch: 5.2498956

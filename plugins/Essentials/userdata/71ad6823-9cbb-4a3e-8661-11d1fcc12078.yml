@@ -1,21 +1,21 @@
 lastAccountName: noghristealth
 timestamps:
-  login: 1569610347774
-  logout: 1569611807592
-  lastteleport: 1569611315765
+  login: 1569615144265
+  logout: 1569618644260
+  lastteleport: 1569618585051
 ipAddress: 69.174.136.197
 logoutlocation:
   world: world
-  x: -8280.061012181735
-  y: 31.0
-  z: -7859.847978813759
-  yaw: -52.35442
-  pitch: 19.237411
+  x: -752.9886524383286
+  y: 175.0
+  z: -522.322998108625
+  yaw: 338.58356
+  pitch: 34.69886
 lastlocation:
   world: world
-  x: -759.5
-  y: 175.0
-  z: -521.5
-  yaw: -150.71358
-  pitch: 20.671879
+  x: -8277.552359889438
+  y: 31.0
+  z: -7859.2486988063965
+  yaw: 298.8789
+  pitch: 40.070934
 afk: false
