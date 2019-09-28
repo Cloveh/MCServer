@@ -1,151 +1,149 @@
-[08:48:22] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[08:48:22] [Server thread/INFO]: Loading properties
-[08:48:23] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-798ea6a-368f4e9 (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
-[08:48:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[08:48:23] [Server thread/INFO]: Using 4 threads for Netty based IO
-[08:48:23] [Server thread/INFO]: Debug logging is disabled
-[08:48:23] [Server thread/INFO]: Default game type: SURVIVAL
-[08:48:23] [Server thread/INFO]: Generating keypair
-[08:48:23] [Server thread/INFO]: Starting Minecraft server on *:5211
-[08:48:24] [Server thread/INFO]: Using epoll channel type
-[08:48:32] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
-[08:48:32] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.1.15
-[08:48:32] [Server thread/INFO]: [Factions] Loading Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-[08:48:32] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
-[08:48:32] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[08:48:32] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[08:48:32] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
-[08:48:32] [Server thread/INFO]: Preparing level "world"
-[08:48:32] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[08:48:33] [Server thread/INFO]: Loaded 6 recipes
-[08:48:33] [Server thread/INFO]: -------- World Settings For [world] --------
-[08:48:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[08:48:33] [Server thread/INFO]: Cane Growth Modifier: 100%
-[08:48:33] [Server thread/INFO]: Melon Growth Modifier: 100%
-[08:48:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[08:48:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[08:48:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[08:48:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[08:48:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[08:48:33] [Server thread/INFO]: Potato Growth Modifier: 100%
-[08:48:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[08:48:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[08:48:33] [Server thread/INFO]: Vine Growth Modifier: 100%
-[08:48:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[08:48:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[08:48:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[08:48:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[08:48:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[08:48:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[08:48:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[08:48:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[08:48:33] [Server thread/INFO]: Max TNT Explosions: 100
-[08:48:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[08:48:33] [Server thread/INFO]: Experience Merge Radius: 3.0
-[08:48:33] [Server thread/INFO]: Mob Spawn Range: 6
-[08:48:33] [Server thread/INFO]: View Distance: 10
-[08:48:33] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[08:48:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[08:48:33] [Server thread/INFO]: Item Merge Radius: 2.5
-[08:48:33] [Server thread/INFO]: Item Despawn Rate: 6000
-[08:48:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[08:48:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[08:48:34] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[08:48:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Cane Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Melon Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Potato Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Vine Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[08:48:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[08:48:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[08:48:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[08:48:34] [Server thread/INFO]: Max TNT Explosions: 100
-[08:48:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[08:48:34] [Server thread/INFO]: Experience Merge Radius: 3.0
-[08:48:34] [Server thread/INFO]: Mob Spawn Range: 6
-[08:48:34] [Server thread/INFO]: View Distance: 10
-[08:48:34] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[08:48:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[08:48:34] [Server thread/INFO]: Item Merge Radius: 2.5
-[08:48:34] [Server thread/INFO]: Item Despawn Rate: 6000
-[08:48:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[08:48:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[08:48:34] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[08:48:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Cane Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Melon Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Potato Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Vine Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[08:48:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[08:48:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[08:48:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[08:48:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[08:48:34] [Server thread/INFO]: Max TNT Explosions: 100
-[08:48:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[08:48:34] [Server thread/INFO]: Experience Merge Radius: 3.0
-[08:48:34] [Server thread/INFO]: Mob Spawn Range: 6
-[08:48:34] [Server thread/INFO]: View Distance: 10
-[08:48:34] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[08:48:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[08:48:34] [Server thread/INFO]: Item Merge Radius: 2.5
-[08:48:34] [Server thread/INFO]: Item Despawn Rate: 6000
-[08:48:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[08:48:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[08:48:34] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
-[08:48:35] [Server thread/INFO]: Preparing spawn area: 0%
-[08:48:35] [Server thread/INFO]: Preparing spawn area: 0%
-[08:48:35] [Server thread/INFO]: Preparing spawn area: 0%
-[08:48:35] [Server thread/INFO]: Preparing spawn area: 0%
-[08:48:36] [Server thread/INFO]: Preparing spawn area: 96%
-[08:48:36] [Server thread/INFO]: Time elapsed: 2405 ms
-[08:48:36] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
-[08:48:37] [Server thread/INFO]: Preparing spawn area: 0%
-[08:48:37] [Server thread/INFO]: Preparing spawn area: 0%
-[08:48:37] [Server thread/INFO]: Preparing spawn area: 0%
-[08:48:38] [Server thread/INFO]: Preparing spawn area: 43%
-[08:48:38] [Server thread/INFO]: Time elapsed: 1827 ms
-[08:48:38] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
-[08:48:38] [Server thread/INFO]: Preparing spawn area: 0%
-[08:48:39] [Server thread/INFO]: Preparing spawn area: 0%
-[08:48:39] [Server thread/INFO]: Time elapsed: 788 ms
-[08:48:39] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.1.15
-[08:48:39] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
-[08:48:39] [Server thread/INFO]: No kits found to migrate.
-[08:48:40] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
-[08:48:40] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
-[08:48:40] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
-[08:48:40] [Server thread/INFO]: Loaded 20977 items from items.json.
-[08:48:40] [Server thread/INFO]: Using locale en_US
-[08:48:40] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[08:48:41] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[08:48:41] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
-[08:48:41] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
-[08:48:41] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
-[08:48:41] [Server thread/INFO]: [Factions] Enabling Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-[08:48:41] [Server thread/INFO]: 
+[09:08:35] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[09:08:35] [Server thread/INFO]: Loading properties
+[09:08:36] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-798ea6a-368f4e9 (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+[09:08:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:08:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:08:36] [Server thread/INFO]: Debug logging is disabled
+[09:08:36] [Server thread/INFO]: Default game type: SURVIVAL
+[09:08:36] [Server thread/INFO]: Generating keypair
+[09:08:37] [Server thread/INFO]: Starting Minecraft server on *:5211
+[09:08:37] [Server thread/INFO]: Using epoll channel type
+[09:08:46] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[09:08:46] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.1.15
+[09:08:46] [Server thread/INFO]: [Factions] Loading Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
+[09:08:46] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[09:08:46] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[09:08:46] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[09:08:46] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[09:08:46] [Server thread/INFO]: Preparing level "world"
+[09:08:46] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[09:08:47] [Server thread/INFO]: Loaded 6 recipes
+[09:08:48] [Server thread/INFO]: -------- World Settings For [world] --------
+[09:08:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Potato Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[09:08:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:08:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[09:08:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[09:08:48] [Server thread/INFO]: Max TNT Explosions: 100
+[09:08:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:08:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:08:48] [Server thread/INFO]: Mob Spawn Range: 6
+[09:08:48] [Server thread/INFO]: View Distance: 10
+[09:08:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:08:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:08:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:08:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:08:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:08:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:08:48] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[09:08:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Potato Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[09:08:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:08:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[09:08:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[09:08:48] [Server thread/INFO]: Max TNT Explosions: 100
+[09:08:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:08:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:08:48] [Server thread/INFO]: Mob Spawn Range: 6
+[09:08:48] [Server thread/INFO]: View Distance: 10
+[09:08:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:08:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:08:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:08:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:08:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:08:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:08:48] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[09:08:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Potato Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[09:08:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[09:08:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:08:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[09:08:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[09:08:48] [Server thread/INFO]: Max TNT Explosions: 100
+[09:08:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:08:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:08:48] [Server thread/INFO]: Mob Spawn Range: 6
+[09:08:48] [Server thread/INFO]: View Distance: 10
+[09:08:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:08:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:08:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:08:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:08:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:08:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:08:48] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[09:08:49] [Server thread/INFO]: Preparing spawn area: 0%
+[09:08:49] [Server thread/INFO]: Preparing spawn area: 0%
+[09:08:49] [Server thread/INFO]: Preparing spawn area: 0%
+[09:08:49] [Server thread/INFO]: Preparing spawn area: 0%
+[09:08:50] [Server thread/INFO]: Time elapsed: 2214 ms
+[09:08:50] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[09:08:52] [Server thread/INFO]: Preparing spawn area: 0%
+[09:08:52] [Server thread/INFO]: Preparing spawn area: 0%
+[09:08:52] [Server thread/INFO]: Preparing spawn area: 0%
+[09:08:52] [Server thread/INFO]: Preparing spawn area: 0%
+[09:08:52] [Server thread/INFO]: Time elapsed: 2062 ms
+[09:08:52] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[09:08:53] [Server thread/INFO]: Preparing spawn area: 0%
+[09:08:53] [Server thread/INFO]: Time elapsed: 737 ms
+[09:08:53] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.1.15
+[09:08:53] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[09:08:53] [Server thread/INFO]: No kits found to migrate.
+[09:08:54] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[09:08:54] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[09:08:54] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[09:08:55] [Server thread/INFO]: Loaded 20977 items from items.json.
+[09:08:55] [Server thread/INFO]: Using locale en_US
+[09:08:55] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[09:08:55] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[09:08:55] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[09:08:55] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[09:08:55] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[09:08:55] [Server thread/INFO]: [Factions] Enabling Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
+[09:08:55] [Server thread/INFO]: 
  __                               ___          _   _                 
 / _\ __ ___   ____ _  __ _  ___  / __\_ _  ___| |_(_) ___  _ __  ___ 
 \ \ / _` \ \ / / _` |/ _` |/ _ \/ _\/ _` |/ __| __| |/ _ \| '_ \/ __|
@@ -153,1151 +151,76 @@ _\ \ (_| |\ V / (_| | (_| |  __/ / | (_| | (__| |_| | (_) | | | \__ \
 \__/\__,_| \_/ \__,_|\__, |\___\/   \__,_|\___|\__|_|\___/|_| |_|___/
                      |___/                                           
 Made with love, by ProSavage & SavageLLC Team.
-[08:48:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] ==== Setup ====
-[08:48:41] [Server thread/INFO]: [TrackX] Tracker starting for savagefactions
-[08:48:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] Minecraft Version 1.14 found.
-[08:48:41] [Server thread/INFO]: File was not found for players.json, assuming there is no need to migrate old players.json file.
-[08:48:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] ==== End Setup ====
-[08:48:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] === ENABLE START ===
-[08:48:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] Config.yml was found to be up-to-date!
-[08:48:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] Loaded 35 players
-[08:48:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] Loaded 10 Factions
-[08:48:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] Loading board from disk
-[08:48:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] Loaded 88 board locations
-[08:48:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] CoreProtect not found, disabling Inspect
-[08:48:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] Enabling Faction Flight!
-[08:48:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] Enabling FactionsTop command, this is a very basic /f top please get a dedicated /f top resource if you want land calculation etc.
-[08:48:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] Economy integration through Vault plugin successful.
-[08:48:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] NOTE: Economy is disabled. You can enable it with the command: f config econEnabled true
-[08:48:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] Minecraft Version 1.9 or higher found, using non packet based particle API
-[08:48:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] === ENABLE DONE (Took 853ms) ===
-[08:48:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[08:48:42] [Server thread/INFO]: Done (10.250s)! For help, type "help"
-[08:48:42] [Craft Scheduler Thread - 4/INFO]: [Vault] Checking for Updates ... 
-[08:48:46] [Craft Scheduler Thread - 4/INFO]: [Vault] No new version available
-[08:50:18] [User Authenticator #1/INFO]: UUID of player Cloveh is 9500ec7e-7253-4127-b86b-9442971ea1de
-[08:50:20] [Server thread/INFO]: Cloveh[/128.211.223.76:50790] logged in with entity id 61 at ([world]-888.9463330143119, 106.0, 890.7578697104988)
-[08:50:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5683ms or 113 ticks behind
-[08:50:37] [Thread-8/INFO]: [TrackX] Reporting issue...
-[08:50:37] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
+[09:08:55] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] ==== Setup ====
+[09:08:55] [Server thread/INFO]: [TrackX] Tracker starting for savagefactions
+[09:08:55] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] Minecraft Version 1.14 found.
+[09:08:55] [Server thread/INFO]: File was not found for players.json, assuming there is no need to migrate old players.json file.
+[09:08:55] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] ==== End Setup ====
+[09:08:55] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] === ENABLE START ===
+[09:08:55] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] Config.yml was found to be up-to-date!
+[09:08:55] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] Loaded 35 players
+[09:08:55] [Thread-8/INFO]: [TrackX] Reporting issue...
+[09:08:55] [Server thread/ERROR]: Error occurred while enabling Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6 (Is it up to date?)
+com.massivecraft.factions.shade.com.google.gson.JsonSyntaxException: com.massivecraft.factions.shade.com.google.gson.stream.MalformedJsonException: Expected ':' at line 36 column 10 path $..permissions.NORMAL.<<<<<<<
+	at com.massivecraft.factions.shade.com.google.gson.internal.Streams.parse(Streams.java:60) ~[?:?]
+	at com.massivecraft.factions.shade.com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:65) ~[?:?]
+	at com.massivecraft.factions.shade.com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.read(ReflectiveTypeAdapterFactory.java:131) ~[?:?]
+	at com.massivecraft.factions.shade.com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:222) ~[?:?]
+	at com.massivecraft.factions.shade.com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[?:?]
+	at com.massivecraft.factions.shade.com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:187) ~[?:?]
+	at com.massivecraft.factions.shade.com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[?:?]
+	at com.massivecraft.factions.shade.com.google.gson.Gson.fromJson(Gson.java:927) ~[?:?]
+	at com.massivecraft.factions.shade.com.google.gson.Gson.fromJson(Gson.java:892) ~[?:?]
+	at com.massivecraft.factions.shade.com.google.gson.Gson.fromJson(Gson.java:841) ~[?:?]
+	at com.massivecraft.factions.zcore.persist.json.JSONFactions.loadCore(JSONFactions.java:84) ~[?:?]
+	at com.massivecraft.factions.zcore.persist.json.JSONFactions.load(JSONFactions.java:64) ~[?:?]
+	at com.massivecraft.factions.SavageFactions.onEnable(SavageFactions.java:156) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:352) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:417) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
+	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugin(CraftServer.java:461) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
+	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugins(CraftServer.java:375) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:449) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.init(DedicatedServer.java:266) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:775) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:37] [Thread-8/INFO]: [TrackX] Response code: 200
-[08:50:37] [Thread-8/INFO]: [TrackX] Response Message: reported
-[08:50:37] [Thread-9/INFO]: [TrackX] Reporting issue...
-[08:50:37] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:885) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:38] [Thread-9/INFO]: [TrackX] Response code: 200
-[08:50:38] [Thread-9/INFO]: [TrackX] Response Message: to_rec
-[08:50:38] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:38] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:38] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:885) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:38] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:885) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:38] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:40] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:885) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:43] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:44] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:47] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:47] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:47] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:885) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:47] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:885) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:47] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:47] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:48] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:53] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:53] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:885) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:54] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:50:58] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:51:02] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:51:04] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:52:10] [Server thread/INFO]: Cloveh issued server command: /gamemode 1
-[08:52:32] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:885) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:52:32] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:52:33] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:52:33] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:885) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:52:33] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:52:34] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:52:34] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:52:35] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:885) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:52:35] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:52:36] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:52:47] [User Authenticator #2/INFO]: UUID of player noghristealth is 71ad6823-9cbb-4a3e-8661-11d1fcc12078
-[08:52:48] [Server thread/INFO]: noghristealth[/69.174.136.197:50491] logged in with entity id 670 at ([world_the_end]-3574.027467417814, 58.53584062504456, -1966.4570786122972)
-[08:52:54] [Server thread/INFO]: Cloveh issued server command: /gamemode spectator
-[08:53:00] [Server thread/INFO]: Cloveh issued server command: /tp Cloveh noghristealth
-[08:53:00] [Server thread/INFO]: Cloveh has made the advancement [The End?]
-[08:53:06] [Server thread/INFO]: Cloveh issued server command: /gamemode 1
-[08:53:07] [Server thread/INFO]: Cloveh fell out of the world
-[08:53:20] [Async Chat Thread - #0/INFO]: *Omicron[0;37;1m <[0;31;22mCloveh[m> fml[m
-[08:53:30] [Async Chat Thread - #0/INFO]: *Omicron[0;37;1m <[0;31;22mCloveh[m> chests should be good now[m
-[08:53:32] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:53:34] [Async Chat Thread - #0/INFO]: *ETA[0;37;1m <noghristealth> nice[m
-[08:53:39] [Server thread/INFO]: Cloveh issued server command: /gamemode 0
-[08:53:52] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:885) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:53:52] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:885) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:53:52] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at org.bukkit.craftbukkit.v1_14_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:429) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerInteractManager.a(PlayerInteractManager.java:432) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1238) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:885) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
-Caused by: java.lang.NullPointerException
-	at com.massivecraft.factions.listeners.FactionsPlayerListener.onPlayerInteract(FactionsPlayerListener.java:718) ~[?:?]
-	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4.jar:git-Spigot-798ea6a-368f4e9]
-	... 19 more
-[08:53:52] [Server thread/WARN]: noghristealth moved too quickly! 17.628409286352053,-1.0,0.5777682331026881
-[08:54:07] [Server thread/INFO]: Cloveh issued server command: /f leave
-[08:54:07] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] Cloveh left faction Omicron.
-[08:54:19] [Server thread/INFO]: Cloveh issued server command: /f join Omicron
-[08:54:19] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] §c§l[!]§7 §cCloveh§7 joined the faction§c Omicron.
-[08:55:24] [Server thread/INFO]: Cloveh issued server command: /f admin
-[08:55:32] [Server thread/INFO]: Cloveh issued server command: /f setadmin C
-[08:55:36] [Server thread/INFO]: Cloveh issued server command: /f setadmin Cloveh
-[08:55:42] [Server thread/INFO]: Cloveh issued server command: /f mod Cloveh
-[08:55:50] [Server thread/INFO]: Cloveh issued server command: /f admin Cloveh
-[08:55:56] [Server thread/INFO]: Cloveh issued server command: /f coleader Cloveh
-[08:57:44] [Server thread/INFO]: Stopping the server
-[08:57:44] [Server thread/INFO]: Stopping server
-[08:57:44] [Server thread/INFO]: [Factions] Disabling Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
-[08:57:44] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] Disabled
-[08:57:44] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.1.15
-[08:57:44] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
-[08:57:44] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+Caused by: com.massivecraft.factions.shade.com.google.gson.stream.MalformedJsonException: Expected ':' at line 36 column 10 path $..permissions.NORMAL.<<<<<<<
+	at com.massivecraft.factions.shade.com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1568) ~[?:?]
+	at com.massivecraft.factions.shade.com.google.gson.stream.JsonReader.doPeek(JsonReader.java:530) ~[?:?]
+	at com.massivecraft.factions.shade.com.google.gson.stream.JsonReader.peek(JsonReader.java:425) ~[?:?]
+	at com.massivecraft.factions.shade.com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:700) ~[?:?]
+	at com.massivecraft.factions.shade.com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:723) ~[?:?]
+	at com.massivecraft.factions.shade.com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:723) ~[?:?]
+	at com.massivecraft.factions.shade.com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:698) ~[?:?]
+	at com.massivecraft.factions.shade.com.google.gson.internal.Streams.parse(Streams.java:48) ~[?:?]
+	... 21 more
+[09:08:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:08:56] [Server thread/INFO]: Done (9.846s)! For help, type "help"
+[09:08:56] [Craft Scheduler Thread - 0/INFO]: [Vault] Checking for Updates ... 
+[09:08:56] [Thread-8/INFO]: [TrackX] Response code: 200
+[09:08:56] [Thread-8/INFO]: [TrackX] Response Message: reported
+[09:08:56] [Craft Scheduler Thread - 0/INFO]: [Vault] No new version available
+[09:09:53] [User Authenticator #1/INFO]: UUID of player noghristealth is 71ad6823-9cbb-4a3e-8661-11d1fcc12078
+[09:09:54] [Server thread/INFO]: noghristealth[/69.174.136.197:50632] logged in with entity id 61 at ([world_the_end]-3578.3668608950343, 57.0, -1779.300000011921)
+[09:09:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5836ms or 116 ticks behind
+[09:10:06] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[09:10:10] [Server thread/INFO]: Stopping the server
+[09:10:10] [Server thread/INFO]: Stopping server
+[09:10:10] [Server thread/INFO]: [Factions] Disabling Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6
+[09:10:10] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-6] Disabled
+[09:10:10] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.1.15
+[09:10:10] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
+[09:10:10] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[09:10:10] [Server thread/INFO]: Saving players
+[09:10:10] [Server thread/INFO]: noghristealth lost connection: Server closed
+[09:10:10] [Server thread/INFO]: noghristealth left the game
+[09:10:10] [Server thread/INFO]: Saving worlds
+[09:10:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[09:10:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:10:11] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[09:10:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:10:13] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[09:10:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:10:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:10:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:10:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
