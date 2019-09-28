@@ -425,7 +425,7 @@
     }
   },
   "disableFlightOnFactionClaimChange": true,
-  "useLockedPermissions": false,
+  "useLockedPermissions": true,
   "useCustomDefaultPermissions": true,
   "usePermissionHints": false,
   "defaultFactionPermissions": {
