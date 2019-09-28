@@ -1,20 +1,20 @@
 lastAccountName: dkeric
 timestamps:
-  login: 1569596376548
-  logout: 1569598117330
-  lastteleport: 1569598098151
-ipAddress: 69.174.137.97
+  login: 1569642002638
+  logout: 1569643560039
+  lastteleport: 1569643441650
+ipAddress: 208.38.248.69
 logoutlocation:
   world: world
-  x: -60.700000025331974
-  y: 69.0000002
-  z: 70.29999997466803
-  yaw: -311.57404
-  pitch: 0.0
+  x: -20.867032813506675
+  y: 34.0
+  z: 77.89263478963464
+  yaw: -312.62408
+  pitch: 33.299953
 lastlocation:
   world: world
-  x: -402.86392295855694
-  y: 71.0
-  z: -90.74502623876
-  yaw: 134.9773
-  pitch: 43.649998
+  x: -198.08702854083705
+  y: 22.0
+  z: 126.1587490884387
+  yaw: -352.07776
+  pitch: 14.3999815
