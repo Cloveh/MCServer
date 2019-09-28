@@ -975,6 +975,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-09-28 08:53:00 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-09-24 12:27:45 -0700"
@@ -1535,6 +1541,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "salmon": "2019-09-25 15:15:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-09-28 08:53:00 -0700"
     },
     "done": true
   },
